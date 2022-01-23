@@ -21,4 +21,4 @@ And then you're ready to go.
 
 ## Try it
 
-[JSFiddle]([https://codep](https://jsfiddle.net/tobiasroeder/x6r1Lwmt/))
+[JSFiddle](https://jsfiddle.net/tobiasroeder/x6r1Lwmt/)
