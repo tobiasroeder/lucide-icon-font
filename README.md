@@ -1,3 +1,7 @@
+⚠️ Since the release [v0.29.0](https://github.com/lucide-icons/lucide/releases/tag/v0.29.0) of Lucide, the icon font is now available. Therefore, I no longer see any reason to care about this repository.
+
+---
+
 # Lucide Icon Font
 
 This icon font version uses the icons from [Lucide](https://github.com/lucide-icons/lucide/) ([v0.17.15](https://github.com/lucide-icons/lucide/releases/tag/v0.17.15)).
